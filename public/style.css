@@ -1,0 +1,23 @@
+.navbar{
+    background-color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    height : 3rem;
+    font-size: 2rem;
+    text-align: left;
+    font-weight: bold;
+   
+    margin: -8 -8 0 -8;
+    padding: 1rem;
+    
+}
+
+body{
+    margin-top : 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#root{
+    margin: 8px;
+}
+
