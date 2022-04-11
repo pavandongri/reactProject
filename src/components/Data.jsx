@@ -6,7 +6,7 @@ const Data = (props) => {
         {props.rides.map((ride,index ) => {
           return (
             <>
-            <h1>Hello</h1>
+            
             <Set
               key ={index}
               rideid={ride.id}
